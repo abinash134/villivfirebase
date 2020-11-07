@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "373475321077",
+    "firebase_url": "https://villivfirebase.firebaseio.com",
+    "project_id": "villivfirebase",
+    "storage_bucket": "villivfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373475321077:android:669bc8973d3fa49f9e11bc",
+        "android_client_info": {
+          "package_name": "com.abinash.villivfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373475321077-9ggqngil85ds6regsm16husjhkad230m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASdOmfuZ9MSjkYj_5SDR7Z_8ty8A4e2mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373475321077-9ggqngil85ds6regsm16husjhkad230m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373475321077:android:3ada531f2ed4fe329e11bc",
+        "android_client_info": {
+          "package_name": "com.abinash.villivfirebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373475321077-9ggqngil85ds6regsm16husjhkad230m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASdOmfuZ9MSjkYj_5SDR7Z_8ty8A4e2mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373475321077-9ggqngil85ds6regsm16husjhkad230m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
